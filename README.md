@@ -1,7 +1,6 @@
 # Hi 👋, I'm Marcelo Magalhães Cordeiro
 
 🚀 **Junior Software Engineer | JavaScript & .NET
-🇧🇷 Brazil
 
 I’m a junior developer focused on building web applications and learning how to create scalable and efficient systems.
 I have been studying JavaScript, .NET, and databases, with an emphasis on writing clean and organized code.
@@ -62,15 +61,6 @@ I also like to share my learning journey and insights about technology and progr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
@@ -83,8 +73,8 @@ I also like to share my learning journey and insights about technology and progr
 
 
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celokomaga/celokomaga/output/github-contribution-grid-snake-dark.svg">
-<source media=" (prefers-color-scheme: light) srset=https://raw.githubusercontent.com/celokomaga/celokomaga/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celomagac/celomagac/output/github-contribution-grid-snake-dark.svg">
+<source media=" (prefers-color-scheme: light) srset=https://raw.githubusercontent.com/celomagac/celomagac/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
