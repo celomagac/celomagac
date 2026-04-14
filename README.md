@@ -1,9 +1,9 @@
 # Hi 👋, I'm Marcelo Magalhães Cordeiro
 
-🚀 **Junior Software Engineer | JavaScript & .NET
+🚀 **Junior Software Engineer | JavaScript & Python
 
 I’m a junior developer focused on building web applications and learning how to create scalable and efficient systems.
-I have been studying JavaScript, .NET, and databases, with an emphasis on writing clean and organized code.
+I have been studying JavaScript, Python, and databases, with an emphasis on writing clean and organized code.
 
 I’m constantly improving my skills in software development, back-end and front-end, and I enjoy learning about SaaS and real-world tech solutions.
 
