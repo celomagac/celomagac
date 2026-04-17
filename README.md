@@ -71,6 +71,10 @@ I also like to share my learning journey and insights about technology and progr
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celomagac&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celomagac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br)
+
 
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celomagac/celomagac/output/github-contribution-grid-snake-dark.svg">
