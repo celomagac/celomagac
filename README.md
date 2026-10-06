@@ -1,17 +1,17 @@
 # Hi 👋, I'm Marcelo Magalhães Cordeiro
 
-📊 **Data Analyst | Python · SQL · Power BI**
+📊 **Data Analyst | Python | SQL | Power BI**
 
 Data analyst with a background in operations and supply chain, turning raw data into decisions. I build ETL pipelines, analytical models and dashboards that answer real business questions: cost, lead time, stock and performance.
 
-Currently studying Systems Analysis and Development and open to **junior Data Analyst / BI** opportunities in São Paulo 🇧🇷
+Currently studying Systems Analysis and Development and open to **Junior Data Analyst / BI** opportunities in São Paulo 🇧🇷
 
 
 ---
 
 ## 🌐 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://linkedin.com/in/marcelo-cordeiro-848652333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://linkedin.com/in/marcelo-magalhães-cordeiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelomgcd/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@celokomemo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://marcelinho.magalhaes.c@gmail.com)
@@ -57,8 +57,8 @@ Currently studying Systems Analysis and Development and open to **junior Data An
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Data is not just about numbers.  
+> It's about turning information into decisions that create real value."_
 
 ---
 
