@@ -1,13 +1,11 @@
 # Hi 👋, I'm Marcelo Magalhães Cordeiro
 
-🚀 **Junior Software Engineer | JavaScript & Python
+📊 **Data Analyst | Python · SQL · Power BI**
 
-I’m a junior developer focused on building web applications and learning how to create scalable and efficient systems.
-I have been studying JavaScript, Python, and databases, with an emphasis on writing clean and organized code.
+Data analyst with a background in operations and supply chain, turning raw data into decisions. I build ETL pipelines, analytical models and dashboards that answer real business questions: cost, lead time, stock and performance.
 
-I’m constantly improving my skills in software development, back-end and front-end, and I enjoy learning about SaaS and real-world tech solutions.
+Currently studying Systems Analysis and Development and open to **junior Data Analyst / BI** opportunities in São Paulo 🇧🇷
 
-I also like to share my learning journey and insights about technology and programming.
 
 ---
 
@@ -22,44 +20,40 @@ I also like to share my learning journey and insights about technology and progr
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+- 📈 **Data analysis & visualization**: dashboards in Power BI and interactive apps with Streamlit and Plotly
+- 🗄️ **Advanced SQL**: complex queries, joins, window functions and data modeling
+- 🔄 **ETL & data engineering**: pipelines with Python, PySpark and Databricks
+- 🚚 **Supply chain analytics**: logistics, inventory and operational KPIs
+- 🤖 **Automation & GenAI**: LLMs, RAG and AI agents (LangChain) applied to data workflows
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Analysis & BI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+**Python for data**
+`Pandas` · `NumPy` · `Plotly` · `Matplotlib` · `Streamlit` · `PyTorch`
 
-### Backend
+**Data engineering & cloud**
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+**AI**
+`LangChain` · `RAG` · `AI Agents` · `LLMs`
 
 ---
+
+
 
 ## 🚀 Philosophy
 
