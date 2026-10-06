@@ -4,7 +4,7 @@
 
 Data analyst with a background in operations and supply chain, turning raw data into decisions. I build ETL pipelines, analytical models and dashboards that answer real business questions: cost, lead time, stock and performance.
 
-Currently studying Systems Analysis and Development and open to **Junior Data Analyst / BI** opportunities in São Paulo 🇧🇷
+Currently studying Systems Analysis and Development and open to **Junior Data Analyst / BI** opportunities in São Paulo
 
 
 ---
